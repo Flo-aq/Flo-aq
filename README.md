@@ -2,8 +2,6 @@
 
 Estudiante de **Ingeniería Civil de Computación** (Major en Robótica, Minor en Inteligencia Computacional) en la Pontificia Universidad Católica de Chile. Me interesa el frontend, el diseño de soluciones centradas en el usuario y el procesamiento de imágenes. Parto del problema y de lo que necesita el usuario, y llevo la solución hasta su construcción, en software, en sistemas físicos o en ambos.
 
-Busco una práctica donde combinar software y diseño de soluciones.
-
 [LinkedIn](https://www.linkedin.com/in/florencia-aqueveque-saavedra) · fjaqueveque@uc.cl · Santiago, Chile
 
 ## Proyectos destacados
@@ -19,7 +17,6 @@ Busco una práctica donde combinar software y diseño de soluciones.
 
 - **Dashboard de analytics y previsión de demanda con IA** (proyecto de título, cliente real, equipo de 5): lidero el frontend, desde la definición de KPIs y el mockup hasta el código. React, TypeScript, Chart.js, Tailwind. Repositorio privado.
 - **Valrod SA**: dos aplicaciones de escritorio en Python (scraping en paralelo, reportes en Excel) que la empresa usa hoy.
-- **Almyros** (ING2030): ganador del concurso final. Diseño mecánico, prototipo y línea gráfica de una solución para extraer litio desde salmuera.
 
 ## Herramientas
 
